@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 ## Hello
 ### My name is Thomas N Vilches
 - :pushpin: PhD in Biometrics

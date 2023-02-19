@@ -36,18 +36,7 @@
  <a href = "GithubMainPage"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
  </div>
   
-  
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=thomasvilches&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasvilches&layout=compact&theme=vision-friendly-dark" alt="thomasvilches's most languages"/>
-</p>
-
-<br><br>
-  
+    
 
  <!---
 <div> 
